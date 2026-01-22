@@ -1,6 +1,7 @@
 # 🚀 Comment Toxicity Classifier API
 
-[![Docker Hub](https://hub.docker.com/r/ashfaqgg3/commenttoxicityfastapi)
+[![Docker Hub]
+https://hub.docker.com/r/ashfaqgg3/commenttoxicityfastapi
 
 
 ## 📝 Project Overview
